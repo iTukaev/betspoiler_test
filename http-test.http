@@ -1,0 +1,18 @@
+### add message
+POST http://localhost:8000/
+Content-Type: application/json
+
+{
+  "name": "Ivan",
+  "message": "some text for test messages"
+}
+
+
+###
+
+
+GET http://localhost:8000/
+Content-Type: text/csv
+
+###
+
