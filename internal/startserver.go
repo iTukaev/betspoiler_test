@@ -1,8 +1,8 @@
 package internal
 
 import (
+	"betspoiler_test/pkg/chatServise"
 	"betspoiler_test/pkg/handlers/addMessage"
-	"betspoiler_test/pkg/handlers/chatServise"
 	"betspoiler_test/pkg/handlers/getAll"
 	"context"
 	"github.com/go-chi/chi"
