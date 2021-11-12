@@ -3,7 +3,7 @@ POST http://localhost:8000/
 Content-Type: application/json
 
 {
-  "name": "Ivan",
+  "name": "Yvan",
   "message": "some text for test messages"
 }
 
